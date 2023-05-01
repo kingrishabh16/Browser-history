@@ -1,0 +1,26 @@
+.searchItemCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.iconCont {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.date {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+.itemImage {
+  height: 20px;
+  width: 20px;
+}
+
+.deleteLogo {
+  height: 20px;
+  width: 20px;
+}
